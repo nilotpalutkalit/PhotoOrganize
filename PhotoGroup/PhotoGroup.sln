@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoGroup", "PhotoGroup.csproj", "{91A69BB9-2B95-40DB-912F-2991190BCDB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6EBE2443-6139-40BA-9EC6-C00D6B6811DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A69BB9-2B95-40DB-912F-2991190BCDB0}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{91A69BB9-2B95-40DB-912F-2991190BCDB0}.Debug|anycpu.Build.0 = Debug|anycpu
+		{91A69BB9-2B95-40DB-912F-2991190BCDB0}.Release|anycpu.ActiveCfg = Release|anycpu
+		{91A69BB9-2B95-40DB-912F-2991190BCDB0}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

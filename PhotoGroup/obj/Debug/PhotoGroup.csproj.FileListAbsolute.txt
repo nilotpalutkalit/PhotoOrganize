@@ -1,0 +1,6 @@
+/Users/nilotpal/Projects/PhotoOrganize/PhotoGroup/bin/Debug/PhotoGroup.exe
+/Users/nilotpal/Projects/PhotoOrganize/PhotoGroup/bin/Debug/PhotoGroup.pdb
+/Users/nilotpal/Projects/PhotoOrganize/PhotoGroup/obj/Debug/PhotoGroup.csprojAssemblyReference.cache
+/Users/nilotpal/Projects/PhotoOrganize/PhotoGroup/obj/Debug/PhotoGroup.csproj.CoreCompileInputs.cache
+/Users/nilotpal/Projects/PhotoOrganize/PhotoGroup/obj/Debug/PhotoGroup.exe
+/Users/nilotpal/Projects/PhotoOrganize/PhotoGroup/obj/Debug/PhotoGroup.pdb

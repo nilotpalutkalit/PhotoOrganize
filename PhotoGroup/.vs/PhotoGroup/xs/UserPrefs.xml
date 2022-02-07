@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{91A69BB9-2B95-40DB-912F-2991190BCDB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AttributeParser.cs">
+    <Files>
+      <File FileName="Program.cs" Line="22" Column="49" />
+      <File FileName="AttributeParser.cs" Line="14" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhotoGroup" expanded="True">
+            <Node name="PhotoGroup" expanded="True">
+              <Node name="AttributeParser.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PhotoGroup PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
