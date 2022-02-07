@@ -1,0 +1,6 @@
+/Users/nilotpal/Projects/PhotoOrganize/PhotoMerge/bin/Debug/PhotoMerge.exe
+/Users/nilotpal/Projects/PhotoOrganize/PhotoMerge/bin/Debug/PhotoMerge.pdb
+/Users/nilotpal/Projects/PhotoOrganize/PhotoMerge/obj/Debug/PhotoMerge.csprojAssemblyReference.cache
+/Users/nilotpal/Projects/PhotoOrganize/PhotoMerge/obj/Debug/PhotoMerge.csproj.CoreCompileInputs.cache
+/Users/nilotpal/Projects/PhotoOrganize/PhotoMerge/obj/Debug/PhotoMerge.exe
+/Users/nilotpal/Projects/PhotoOrganize/PhotoMerge/obj/Debug/PhotoMerge.pdb
