@@ -1,15 +1,15 @@
-﻿<Properties StartupConfiguration="{91A69BB9-2B95-40DB-912F-2991190BCDB0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AttributeParser.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{91A69BB9-2B95-40DB-912F-2991190BCDB0}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Program.cs" Line="22" Column="49" />
-      <File FileName="AttributeParser.cs" Line="14" Column="22" />
+      <File FileName="Program.cs" Line="51" Column="39" />
+      <File FileName="AttributeParser.cs" Line="37" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PhotoGroup" expanded="True">
             <Node name="PhotoGroup" expanded="True">
-              <Node name="AttributeParser.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
